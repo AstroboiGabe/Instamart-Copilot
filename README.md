@@ -1,7 +1,7 @@
 # Instamart Customer Intelligence & Support Copilot
 Creating a complete cleaned data set and creating a LLM using pre existing raw files **generate_data.py** and **mock_llm.py**
 
-- Initial setup: 1.``run generate_data.py`` 2. ``pip install -r requirements.txt`` in your virtual environment
+- Initial setup: 1.``run generate_data.py`` 2. ``pip install -r requirements.txt`` in your virtual environment 3. create clean folder inside data folder and create outputs folder
 
 ```DISCLAIMER: THIS README DOESNT SHOWCASE ANY RULES APPLIED OR OBTAINED FINAL OUTPUT VALUES. CHECK THE OUPUT IN TERMINAL WHEN RUNNING THE RESPECTIVE FILES DESCRIBED BELOW & CHECK THE FILES TO UNDERSTAND WHAT RULES HAVE BEEN APPLIED IN THIS PROJECT```
 
