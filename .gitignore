@@ -1,0 +1,7 @@
+#Environment & secret files
+.env
+.env.*
+
+#Virtual Environment
+cop
+__pycache__/
